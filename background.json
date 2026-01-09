@@ -1,9 +1,15 @@
 {
   "type": "video",
-  "source": "https://raw.githubusercontent.com/hantukepalagila-source/projectivy/main/bg.mp4",
+  "sources": [
+    "https://raw.githubusercontent.com/hantukepalagila-source/projectivy/main/1.mp4",
+    "https://raw.githubusercontent.com/hantukepalagila-source/projectivy/main/2.mp4",
+    "https://raw.githubusercontent.com/hantukepalagila-source/projectivy/main/3.mp4",
+    "https://raw.githubusercontent.com/hantukepalagila-source/projectivy/main/4.mp4",
+    "https://raw.githubusercontent.com/hantukepalagila-source/projectivy/main/5.mp4"
+  ],
+  "random": true,
   "loop": true,
   "mute": true,
-  "scale": "fill",
-  "dim": 0.25,
-  "fps": 24
+  "fps": 24,
+  "dim": 0.25
 }
