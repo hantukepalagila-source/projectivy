@@ -1,0 +1,9 @@
+{
+  "type": "video",
+  "source": "https://raw.githubusercontent.com/hantukepalagila-source/projectivy/main/bg.mp4",
+  "loop": true,
+  "mute": true,
+  "scale": "fill",
+  "dim": 0.25,
+  "fps": 24
+}
